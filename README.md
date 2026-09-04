@@ -65,6 +65,8 @@ Most recently, I worked in **fiber-optic network documentation**, supporting the
 * PostgreSQL
 * MySQL
 * Tableau
+* Google Sheets
+* Looker Studio
 * MATLAB
 * Microsoft Excel
 
