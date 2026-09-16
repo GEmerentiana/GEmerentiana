@@ -76,6 +76,24 @@ My technical background includes QGIS, ArcGIS, AutoCAD, BricsCAD, MATLAB, Postgr
 
 ## 📂 Selected Projects
 
+### ✈️ AeroPulse — Aviation Route Opportunity Intelligence
+
+An end-to-end aviation analytics and decision-support project that combines flight activity, route performance, airline activity, observed timing, fare observations and passenger-experience evidence to support more informed flight decisions.
+
+The project includes an interactive **Flight Choice Advisor** that ranks the top three airline options for a selected route, month, preferred time window and traveler profile, while explaining why each option is recommended.
+
+**Scope:** 5 major German origin airports · 239 meaningful routes · 28 mapped airlines · 560K+ eligible flight records
+
+**Tools:** Python · SQL · BigQuery · Looker Studio
+
+**Key features:** Route Intelligence · Flight Choice Advisor · Timing Intelligence · Price Intelligence · Passenger Experience
+
+👉 [View GitHub Repository](https://github.com/GEmerentiana/AeroPulse)
+
+👉 [Explore Live Dashboard](https://datastudio.google.com/reporting/ed2e9d35-4cba-4dc0-8a02-220fd4f8e45f)
+
+---
+
 ### 🛴 Scooter Data Pipeline
 
 A data pipeline project focusing on data processing, transformation and structured workflows.
