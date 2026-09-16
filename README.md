@@ -94,7 +94,7 @@ The project includes an interactive **Flight Choice Advisor** that ranks the top
 
 ---
 
-### 🛴 Gans Scooter - Data Pipeline
+### 🛴 Gans Scooter — Data Pipeline
 
 A data pipeline project focusing on data processing, transformation and structured workflows.
 
