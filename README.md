@@ -30,8 +30,8 @@ Most recently, I worked in **fiber-optic network documentation**, supporting the
 ## 🎓 Education
 
 * **Professional training in Data Analytics** — WBS Coding School
-* **MSc Geodesy and Geoinformation Technology** — Technische Universität Berlin
-* **MSc Resources Engineering** — Karlsruhe Institute of Technology (KIT)
+* **MSc. Geodesy and Geoinformation Technology** — Technische Universität Berlin
+* **MSc. Resources Engineering** — Karlsruhe Institute of Technology (KIT)
 * **MM Environmental Management** — Universitas Trisakti
 * **B.Eng. Environmental Engineering** — Universitas Trisakti
 
