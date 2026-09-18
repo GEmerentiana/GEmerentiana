@@ -1,184 +1,104 @@
-# Hi, I'm Gracia Emerentiana 👋
+# 🎓 Certificates & Professional Development
 
-### Technical Specialist | GIS & Geospatial Data | Infrastructure Documentation | Environmental Engineering
+This repository contains selected certificates and qualifications documenting my academic, professional, technical, and language development.
 
-I'm a **technical specialist and engineer with an interdisciplinary background in geoinformation, environmental engineering, infrastructure documentation, GIS, and technical consulting**.
+## 📊 Data Analytics & Professional Training
 
-My professional experience combines **technical documentation, geospatial data, infrastructure projects, environmental planning, engineering, and data-related analysis**.
+### Data Analytics Weiterbildung — WBS Coding School
 
-I enjoy working on projects where technical information needs to be **organized, analyzed, documented, visualized, and transformed into useful insights**.
+**2026**
 
----
+Professional training in data analytics with practical project-based work.
 
-## 👩‍💻 Professional Background
-
-My professional experience includes:
-
-* 🏗️ **Fiber-optic network documentation and FTTx infrastructure**
-* 🗺️ **GIS and geospatial data processing**
-* 🌱 **Environmental planning and environmental technology**
-* 💧 **Water management, river engineering and flood protection**
-* 📐 **Technical engineering and infrastructure planning**
-* 📊 **Map and data analysis**
-* 🤝 **Technical consulting and project-based work**
-* 🌍 **International environmental and infrastructure projects**
-
-Most recently, I worked in **fiber-optic network documentation**, supporting the documentation of FTTx infrastructure. I also have experience as an online **Map/Data Analyst**, as well as previous engineering and consulting roles in environmental and water-management projects.
-
----
-
-## 🎓 Education
-
-* **Professional training in Data Analytics** — WBS Coding School
-* **MSc. Geodesy and Geoinformation Technology** — Technische Universität Berlin
-* **MSc. Resources Engineering** — Karlsruhe Institute of Technology (KIT)
-* **MM Environmental Management** — Universitas Trisakti
-* **B.Eng. Environmental Engineering** — Universitas Trisakti
-
----
-
-## 🛠️ Technical Skills
-
-### GIS & Geospatial
-
-* QGIS
-* ArcGIS
-* Geospatial data processing
-* Map analysis
-* GIS-based project work
-
-### Infrastructure & Engineering
-
-* Fiber-optic / FTTx network documentation
-* Infrastructure documentation
-* Technical planning
-* Environmental engineering
-* Water management
-* Flood protection
-* AutoCAD
-* BricsCAD
-
-### Data & Analytics
+**Key areas:**
 
 * Python
 * SQL
-* PostgreSQL
-* MySQL
-* Tableau
-* Google Sheets
-* Looker Studio
-* MATLAB
-* Microsoft Excel
+* Data Analysis
+* Data Visualization
+* Data Processing
+* Business Intelligence
+* Data Pipelines
+* Dashboard Development
 
-My technical background includes QGIS, ArcGIS, AutoCAD, BricsCAD, MATLAB, PostgreSQL, MySQL, Tableau and Python.
-
----
-
-## 📂 Selected Projects
-
-### ✈️ AeroPulse — Aviation Route Opportunity Intelligence
-
-An end-to-end aviation analytics and decision-support project that combines flight activity, route performance, airline activity, observed timing, fare observations and passenger-experience evidence to support more informed flight decisions.
-
-The project includes an interactive **Flight Choice Advisor** that ranks the top three airline options for a selected route, month, preferred time window and traveler profile, while explaining why each option is recommended.
-
-**Scope:** 5 major German origin airports · 239 meaningful routes · 28 mapped airlines · 560K+ eligible flight records
-
-**Tools:** Python · SQL · BigQuery · Looker Studio
-
-**Key features:** Route Intelligence · Flight Choice Advisor · Timing Intelligence · Price Intelligence · Passenger Experience
-
-👉 [View GitHub Repository](https://github.com/GEmerentiana/AeroPulse)
-
-👉 [Explore Live Dashboard](https://datastudio.google.com/reporting/ed2e9d35-4cba-4dc0-8a02-220fd4f8e45f)
+📄 [View Certificate](./WBS_Data_Analytics_Weiterbildung.pdf)
 
 ---
 
-### 🛴 Gans Scooter — Data Pipeline
+## 📈 Statistics & Data Analysis
 
-A data pipeline project focusing on data processing, transformation and structured workflows.
+### Statistics Foundations 1: The Basics — NASBA
 
-**Tools:** Python · SQL · Data Processing
+Certificate of Completion
 
-👉 [View Project](https://github.com/GEmerentiana/gans_scooter_data_pipeline)
+📄 [View Certificate](./CertificateOfCompletion_Statistics%20Foundations%201%20The%20Basics_NASBA.pdf)
 
----
+### Practical A/B Testing
 
-### 🛍️ GoOutside — Retail Partnership Dashboard
+Certificate of Completion
 
-A business intelligence project analyzing retail performance, sales and potential partnership opportunities.
-
-**Tools:** SQL · Data Analysis · Dashboarding · Visualization
-
-👉 [View Project](https://github.com/GEmerentiana/GoOutside-Retail-Partnership-Dashboard)
+📄 [View Certificate](./CertificateOfCompletion_Practical%20AB%20Testing.pdf)
 
 ---
 
-### 📊 Eniac — Discount Strategy Analysis
+## 🌍 Language Qualifications
 
-An analytical project investigating sales, discounts and business performance in order to develop practical recommendations.
+### German — C1
 
-**Tools:** Python · Pandas · Data Analysis · Visualization
+**Deutsch C1**
 
-👉 [View Project](https://github.com/GEmerentiana/Eniac-s-Discount-Strategy-Analysis)
+📄 [View Certificate](./Deutsch_C1_Emerentiana.pdf)
+
+### DSH — German Language Examination
+
+**DSH-Zeugnis**
+
+📄 [View Certificate](./DSH-Zeugnis_Emerentiana.pdf)
+
+### English — TOEFL iBT
+
+**TOEFL iBT — Score 90**
+
+📄 [View Certificate](./TOEFL%20iBT_90_Emerentiana.pdf)
+
+### French — A2.1
+
+**Teilnahmebescheinigung Französisch A2.1**
+
+📄 [View Certificate](./Teilnahmebescheinigung_Französisch_A2.1_Emerentiana_Gracia.pdf)
 
 ---
 
-### 🤝 Eniac — Partnership Recommendation
+## 🎓 Academic Background
 
-A business analysis evaluating potential partnership opportunities using sales, customer, logistics and performance data.
+My academic qualifications include degrees in:
 
-**Tools:** SQL · Data Analysis · Business Analysis
-
-👉 [View Project](https://github.com/GEmerentiana/Eniac-s-Partnership-Recommendation)
+* **Geodesy & Geoinformation Technology** — Technische Universität Berlin
+* **Resources Engineering** — Karlsruhe Institute of Technology (KIT)
+* **Environmental Management** — Universitas Trisakti
+* **Environmental Engineering** — Universitas Trisakti
 
 ---
 
-## 🌍 Professional Perspective
-
-My career has developed across several interconnected technical fields:
+## 📁 Repository Structure
 
 ```text
-Environmental Engineering
-        ↓
-Environmental & Water Management
-        ↓
-GIS & Geospatial Information
-        ↓
-Infrastructure & FTTx Documentation
-        ↓
-Map & Data Analysis
-        ↓
-Data & Business Analytics
+Certificates/
+│
+├── WBS_Data_Analytics_Weiterbildung.pdf
+├── CertificateOfCompletion_Practical AB Testing.pdf
+├── CertificateOfCompletion_Statistics Foundations 1 The Basics_NASBA.pdf
+├── DSH-Zeugnis_Emerentiana.pdf
+├── Deutsch_C1_Emerentiana.pdf
+├── TOEFL iBT_90_Emerentiana.pdf
+└── Teilnahmebescheinigung_Französisch_A2.1_Emerentiana_Gracia.pdf
 ```
 
-This multidisciplinary background allows me to approach technical problems from different perspectives — combining **engineering knowledge, spatial thinking, documentation, data and analysis**.
+## 🔗 Professional Profiles
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/gracia-emerentiana-8680311b/)
+* 🐙 [GitHub](https://github.com/GEmerentiana)
 
 ---
 
-## 📌 Currently Developing
-
-I'm currently expanding my technical toolkit in:
-
-* Python for data processing and analysis
-* SQL and relational databases
-* Data visualization
-* Business intelligence
-* Data pipelines
-* Dashboard development
-
-My goal is to combine these newer data skills with my existing **engineering, GIS and technical project experience**.
-
----
-
-## 🤝 Let's Connect
-
-🐙 [GitHub](https://github.com/GEmerentiana)
-
-💼 [LinkedIn](https://www.linkedin.com/in/gracia-emerentiana-8680311b/)
-
----
-
-⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and projects.
+*This repository is maintained as a public record of selected professional development, certifications, and qualifications.*
