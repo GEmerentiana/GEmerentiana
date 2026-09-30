@@ -41,22 +41,20 @@ Certificate of Completion
 
 ---
 
-## 📊 Microsoft Excel & Office Skills
+## 📊 Microsoft Excel
 
 ### Excel: Introduction to Formulas and Functions — LinkedIn Learning
 
 **2026**
 
-Professional development in Microsoft Excel, with a focus on formulas and functions.
+Professional development in Microsoft Excel, focusing on formulas and functions.
 
 **Key skills:**
 
 * Microsoft Excel
 * Excel Formulas
 
-Course completed on **September 30, 2026**. :contentReference[oaicite:2]{index=2}
-
-📄 [View Certificate](./CertificateOfCompletion_Excel_Introduction_to_Formulas_and_Functions_LinkedIn_Learning.pdf)
+📄 [View Certificate](./CertificateOfCompletion_Excel%20Introduction%20to%20Formulas%20and%20Functions.pdf)
 
 ### Excel: Introduction to Formulas and Functions — NASBA
 
@@ -70,10 +68,9 @@ LinkedIn Learning course completed as NASBA-registered continuing professional e
 * Excel Formulas
 * Computer Software & Applications
 
-**CPE:** 4.60 credits  
-**Program:** National Association of State Boards of Accountancy (NASBA)
+**CPE:** 4.60 credits
 
-📄 [View Certificate](./CertificateOfCompletion_Excel_Introduction_to_Formulas_and_Functions_NASBA.pdf)
+📄 [View Certificate](./CertificateOfCompletion_Excel%20Introduction%20to%20Formulas%20and%20Functions%20%281%29.pdf)
 
 ---
 
@@ -126,10 +123,10 @@ Certificates/
 ├── CertificateOfCompletion_Practical AB Testing.pdf
 ├── CertificateOfCompletion_Statistics Foundations 1 The Basics_NASBA.pdf
 │
-├── CertificateOfCompletion_Excel_Introduction_to_Formulas_and_Functions_LinkedIn_Learning.pdf
-├── CertificateOfCompletion_Excel_Introduction_to_Formulas_and_Functions_NASBA.pdf
+├── CertificateOfCompletion_Excel Introduction to Formulas and Functions.pdf
+├── CertificateOfCompletion_Excel Introduction to Formulas and Functions (1).pdf
 │
 ├── DSH-Zeugnis_Emerentiana.pdf
 ├── Deutsch_C1_Emerentiana.pdf
 ├── TOEFL iBT_90_Emerentiana.pdf
-└── Teilnahmebescheinigung_Französisch_A2.1_Emerentiana_Gracia.pdf
+└── Teilnahmebescheinigung_Französisch A2.1_Emerentiana_Gracia.pdf
