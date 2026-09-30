@@ -41,6 +41,42 @@ Certificate of Completion
 
 ---
 
+## 📊 Microsoft Excel & Office Skills
+
+### Excel: Introduction to Formulas and Functions — LinkedIn Learning
+
+**2026**
+
+Professional development in Microsoft Excel, with a focus on formulas and functions.
+
+**Key skills:**
+
+* Microsoft Excel
+* Excel Formulas
+
+Course completed on **September 30, 2026**. :contentReference[oaicite:2]{index=2}
+
+📄 [View Certificate](./CertificateOfCompletion_Excel_Introduction_to_Formulas_and_Functions_LinkedIn_Learning.pdf)
+
+### Excel: Introduction to Formulas and Functions — NASBA
+
+**2026**
+
+LinkedIn Learning course completed as NASBA-registered continuing professional education.
+
+**Key skills:**
+
+* Microsoft Excel
+* Excel Formulas
+* Computer Software & Applications
+
+**CPE:** 4.60 credits  
+**Program:** National Association of State Boards of Accountancy (NASBA)
+
+📄 [View Certificate](./CertificateOfCompletion_Excel_Introduction_to_Formulas_and_Functions_NASBA.pdf)
+
+---
+
 ## 🌍 Language Qualifications
 
 ### German — C1
@@ -86,19 +122,14 @@ My academic qualifications include degrees in:
 Certificates/
 │
 ├── WBS_Data_Analytics_Weiterbildung.pdf
+│
 ├── CertificateOfCompletion_Practical AB Testing.pdf
 ├── CertificateOfCompletion_Statistics Foundations 1 The Basics_NASBA.pdf
+│
+├── CertificateOfCompletion_Excel_Introduction_to_Formulas_and_Functions_LinkedIn_Learning.pdf
+├── CertificateOfCompletion_Excel_Introduction_to_Formulas_and_Functions_NASBA.pdf
+│
 ├── DSH-Zeugnis_Emerentiana.pdf
 ├── Deutsch_C1_Emerentiana.pdf
 ├── TOEFL iBT_90_Emerentiana.pdf
 └── Teilnahmebescheinigung_Französisch_A2.1_Emerentiana_Gracia.pdf
-```
-
-## 🔗 Professional Profiles
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/gracia-emerentiana-8680311b/)
-* 🐙 [GitHub](https://github.com/GEmerentiana)
-
----
-
-*This repository is maintained as a public record of selected professional development, certifications, and qualifications.*
